@@ -113,4 +113,8 @@ El código debe estar estructurado de forma clara y documentada para facilitar f
 \- Estado: Aprobado (Baseline v1.0)
 
 
+**RF-007:**  
+El sistema debe permitir eliminar un turno existente mediante su identificador.
+
+
 
